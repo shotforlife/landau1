@@ -29,12 +29,12 @@ public class BookSearchSteps {
 		library.addBook(book);
 	}
 
-	/** Description of setSearchParameters(@Format("yyyy") final Date from, @Format("yyyy") final Date to)
-	 *
-	 * @param from			Description of position
-	 * @param to			Description of title
-	 */
-	@When("^the customer searches for books published between (\\d+) and (\\d+)$")
+		/** Description of setSearchParameters(@Format("yyyy") final Date from, @Format("yyyy") final Date to)
+		 *
+		 * @param from			Description of position
+		 * @param to			Description of title
+		 */
+		@When("^the customer searches for books published between (\\d+) and (\\d+)$")
 	public void setSearchParameters(@Format("yyyy") final Date from, @Format("yyyy") final Date to) {
 		result = library.findBooks(from, to);
 	}
