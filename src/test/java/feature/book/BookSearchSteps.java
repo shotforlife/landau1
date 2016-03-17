@@ -11,6 +11,7 @@ import com.hascode.tutorial.cucumber.book.Book;
 import com.hascode.tutorial.cucumber.book.Library;
 
 import cucumber.api.Format;
+import cucumber.api.PendingException;
 import cucumber.api.java.en.*;
 
 public class BookSearchSteps {
@@ -66,5 +67,11 @@ public class BookSearchSteps {
 	@Then("^i want do smth with \"([^\"]*)\"$")
 	public void i_want_do_smth_with(String arg1){
 		assertThat("All Ok", true);
+	}
+
+	@And("^want i do \"([^\"]*)\"$")
+	public void want_i_do(String arg1) throws Throwable {
+		// Express the Regexp above with the code you wish you had
+		throw new PendingException();
 	}
 }
