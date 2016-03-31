@@ -18,5 +18,6 @@ Scenario: Check background
 Given scenario not necessary must started from given keyword but may
 Then gherkin parser must be ok with parsing
 And i want save this string to Git
+And GIT GIT
 
 
