@@ -1,15 +1,12 @@
 @Story_Bad @ST_250749888 @kj
-Feature: Given in only one scenario
-  Check Background without given keyword
+Feature: Given in only one scenariol
+Check Background without given keywordjh
 
 @Critical @Test_1 @SC_250750888
 Scenario: Check scenario
-#kadjfha
 Given asd
 And kjsdfhk
-"""
 asdfa
-"""
 
 
 @Medium @Test_2 @SC_250753888
