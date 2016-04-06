@@ -1,14 +1,13 @@
-@Story_Bad_Badbackground @ST_250787891
+@Story_Bad_Badbackground
 Feature: background and scenario without given
 Check Background without given keyword
 
-@SC_887344253
-Scenario: 
+Background:
 When Background starts without given keyword
 And in no one of scenario didn't started
 
 
-@Critical @Test_1 @SC_250789891
+@Critical @Test_1
 Scenario: Check background
 When Background starts without given keyword
 And in no one of scenario didn't started
