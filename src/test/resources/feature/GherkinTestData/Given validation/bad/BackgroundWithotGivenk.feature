@@ -6,7 +6,6 @@ Check Background without given keywordjh
 Scenario: Check scenario
 Given asd
 And kjsdfhk
-asdfa
 
 
 @Medium @Test_2 @SC_250753888
