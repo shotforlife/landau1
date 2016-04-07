@@ -6,7 +6,6 @@ Feature: Given in only one scenario
 Scenario: Check scenario
 Given asd
 And kjsdfhk
-asdfa
 
 
 @Medium @Test_2 @SC_521463228
