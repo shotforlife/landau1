@@ -12,9 +12,3 @@ And kjsdfhk
 Scenario: Check another scenario
 When this scenario started without given keyword
 Then gherkin parser must return error
-
-
-Background:
-Given <col>
-
-
