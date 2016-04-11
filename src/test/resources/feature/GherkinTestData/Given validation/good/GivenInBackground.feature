@@ -5,6 +5,11 @@ Feature: Given in background
 Background:
 Given this story has background with given keyword
 
+
+Scenario: 
+Given this story has background with given keyword
+
+
 @SC_416526993
 Scenario: 
 Given this story has background with given keyword
