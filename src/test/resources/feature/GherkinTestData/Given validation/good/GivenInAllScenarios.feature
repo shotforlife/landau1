@@ -5,6 +5,11 @@ Feature: Given in all scenarios
 Background:
 When in this story background hasn't given keyword
 
+
+Scenario: 
+When in this story background hasn't given keyword
+
+
 @SC_416470049
 Scenario: 
 Given in this story background hasn't given keyword
