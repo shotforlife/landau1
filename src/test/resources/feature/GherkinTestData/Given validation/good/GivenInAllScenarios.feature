@@ -13,5 +13,6 @@ Then gherkin parser must be ok with parsing
 
 
 @Medium @Test_2
+Scenario: Check this scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
