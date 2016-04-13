@@ -4,7 +4,7 @@ Check Background without given keyword
 
 Background:
 When in this story background hasn't given keyword
-  
+
 @SC_45466280
 Scenario: 
 When in this story background hasn't given keyword
@@ -29,6 +29,6 @@ Then gherkin parser must be ok with parsing <two> <three> <one>
 Examples: 
 | one | two | three |
 |  |  |  |
- 
- 
- 
+
+
+
