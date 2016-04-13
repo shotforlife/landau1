@@ -20,15 +20,3 @@ Scenario: Check scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
-
-@Medium @Test_2 @SC_521580252
-Scenario Outline: Check another scenario
-Given this scenario must started from given keyword
-Then gherkin parser must be ok with parsing <two> <three> <one>
-
-Examples: 
-| one | two | three |
-|  |  |  |
-
-
-
