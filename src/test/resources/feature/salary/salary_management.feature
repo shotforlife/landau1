@@ -2,7 +2,7 @@
 Feature: Salary Management
 
 
-@Critical @Test_1 @SC_521696278
+@Critical @Test_1
 Scenario: Modify an employee's salary
 Given the salary management system is initialized with the following data
 | id | user | salary |
