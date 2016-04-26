@@ -1,4 +1,4 @@
-@Story_BookSearch @ST_890371109
+@Story_BookSearch @ST_890371109 @ghjh
 Feature: Salary Management
 
 @Critical @Test_1 @SC_45466280
@@ -29,7 +29,7 @@ And this also must be re-stored on GIT!!!!
 And 34wteyeyy
 
 Examples: 
-| id | user | salary |
+|id|user|salary|
 | 1 | donald | 60000.0 |
 | 2 | dewie | 62000.0 |
 | 3 | goofy | 66000.0 |
@@ -38,6 +38,5 @@ Examples:
 | 6 | minnie | 62000.0 |
 | 7 | mickey | 51000.0 |
 | 8 | fethry | 66500.0 |
-
 
 
