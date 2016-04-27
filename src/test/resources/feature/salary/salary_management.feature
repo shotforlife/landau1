@@ -18,7 +18,7 @@ When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
 
-@Test_1 @High 
+@Test_1 @High @SC_792429687
 Scenario Outline: Modify an employee's salary
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -29,7 +29,7 @@ And this also must be re-stored on GIT!!!!
 And 34wteyeyy
 
 Examples: 
-|id|user|salary|
+| id | user | salary |
 | 1 | donald | 60000.0 |
 | 2 | dewie | 62000.0 |
 | 3 | goofy | 66000.0 |
@@ -38,5 +38,6 @@ Examples:
 | 6 | minnie | 62000.0 |
 | 7 | mickey | 51000.0 |
 | 8 | fethry | 66500.0 |
+
 
 

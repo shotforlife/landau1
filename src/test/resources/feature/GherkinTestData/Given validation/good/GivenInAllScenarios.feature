@@ -5,7 +5,7 @@ Check Background without given keyword
 Background:
 When in this story background hasn't given keyword
 
-
+@SC_792398470
 Scenario: 
 When in this story background hasn't given keyword
 
