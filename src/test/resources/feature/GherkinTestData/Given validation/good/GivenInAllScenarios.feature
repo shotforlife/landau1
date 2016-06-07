@@ -10,7 +10,7 @@ Scenario:
 When in this story background hasn't given keyword
 
 
-@SC_587247965
+@SC_792398470
 Scenario: 
 When in this story background hasn't given keyword
 
