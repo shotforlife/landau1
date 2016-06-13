@@ -1,4 +1,3 @@
-@ST_429618368
 Feature: [Refactoring][Front] Move UI models to services
 Models should be represented as classes.
 Objects should store in storage.
