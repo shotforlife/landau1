@@ -1,4 +1,4 @@
-@Story_BookSearch @ghjh @ST_138653279
+@Story_BookSearch @ghjh
 Feature: Salary Management
 
 @Critical @Test_1 @SC_138658903
