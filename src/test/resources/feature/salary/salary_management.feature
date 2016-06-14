@@ -1,5 +1,5 @@
-@Story_BookSearch @ghjh @ST_194133643
-Feature: Salary Management CHANGED
+@Story_BookSearch @ghjh
+Feature: Salary Management CHANGED2
 
 @Critical @Test_1 @SC_138658903
 Scenario: Modify an employee's salary
