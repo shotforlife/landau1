@@ -22,6 +22,7 @@ And today is 2015-11-18
 Scenario: Check update from GIT
 Given I created new scenario in repository
 Then I can see it in Relime
+#Can I see this?
 
 
 @Critical @Test_1 @SC_705629520
