@@ -1,7 +1,7 @@
 @Story_BookSearch @ghjh @ST_541210567
 Feature: Salary Management CHANGED4
 
-@Critical @Test_1
+@Critical @Test_1 @SC_656832345
 Scenario: Modify an employee's salary CHANGED4
 Given the salary management system is initialized with the following data
 | id | user | salary |
