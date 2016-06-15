@@ -1,4 +1,4 @@
-@Story_BookSearch @ghjh
+@Story_BookSearch @ghjh @ST_246776258
 Feature: Salary Management CHANGED3
 
 @Critical @Test_1 @SC_706594936
