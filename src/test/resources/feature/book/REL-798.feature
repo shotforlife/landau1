@@ -1,4 +1,4 @@
-@ST_93000030
+@ST_89478851
 Feature: [UI] Create service to interact with Jira
 The section of loaded scenario must be started like this
 *BDD*
