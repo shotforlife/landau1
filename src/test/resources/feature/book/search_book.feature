@@ -13,6 +13,10 @@ Scenario:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
+Scenario: 
+Given a $100 microwave was sold on 2015-11-03
+And today is 2015-11-18
+
 
 @Critical @Test_1 @SC_235373221
 Scenario: Search books by publication year
