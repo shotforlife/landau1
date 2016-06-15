@@ -5,6 +5,11 @@ Check Background without given keyword
 Background:
 When in this story background hasn't given keyword
 
+
+Scenario: 
+When in this story background hasn't given keyword
+
+
 @SC_672437291
 Scenario: 
 When in this story background hasn't given keyword
