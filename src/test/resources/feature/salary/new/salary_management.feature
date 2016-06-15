@@ -1,8 +1,8 @@
 @Story_BookSearch @ghjh @ST_467632893
-Feature: Salary Management CHANGED3
+Feature: Salary Management CHANGED4
 
-@Critical @Test_1 @SC_708126660
-Scenario: Modify an employee's salary CHANGED3
+@Critical @Test_1
+Scenario: Modify an employee's salary CHANGED4
 Given the salary management system is initialized with the following data
 | id | user | salary |
 | 1 | donald | 60000.0 |
