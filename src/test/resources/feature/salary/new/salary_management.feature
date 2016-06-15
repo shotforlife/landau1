@@ -1,7 +1,7 @@
-@Story_BookSearch @ghjh @ST_541210567
+@Story_BookSearch @ghjh
 Feature: Salary Management CHANGED4
 
-@Critical @Test_1 @SC_404436384
+@Critical @Test_1
 Scenario: Modify an employee's salary CHANGED4
 Given the salary management system is initialized with the following data
 | id | user | salary |
@@ -18,7 +18,7 @@ When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
 
-@Test_1 @High @SC_541226193
+@Test_1 @High
 Scenario Outline: Modify an employee's salary CHANGED3
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
