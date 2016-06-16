@@ -1,4 +1,4 @@
-@Story_Bad @New_ta @ST_807803200
+@Story_Bad @New_ta @ST_807803200 @ST_807803200
 Feature: only one scenario
 Check Background
 
