@@ -7,12 +7,6 @@ Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@Critical @Test_12
-Scenario: Check scenarioaaaa
-Given asd zczxc
-And kjsdfhk zxczxc
-
-
 @Medium @Test_2
 Scenario: Check another scenario
 When this scenario started without given keyword
