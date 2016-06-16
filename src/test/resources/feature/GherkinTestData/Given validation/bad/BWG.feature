@@ -2,7 +2,7 @@
 Feature: only one scenario
 Check Background
 
-@Critical @Test_1 @SC_846328514
+@Critical @Test_1
 Scenario: Check scenario
 Given asd
 And kjsdfhk
