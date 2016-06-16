@@ -2,10 +2,10 @@
 Feature: Given in all scenarios
 Check Background without given keyword
 
-Scenario: 
+Scenario: 2
 When in this story background hasn't given keyword
 
-Scenario: 
+Scenario: 1
 When in this story background hasn't given keyword
 
 
