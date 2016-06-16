@@ -7,10 +7,10 @@ Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@Critical @Test_1
-Scenario: Check scenario
-Given asd
-And kjsdfhk
+@Critical @Test_12
+Scenario: Check scenarioaaaa
+Given asd zczxc
+And kjsdfhk zxczxc
 
 
 @Medium @Test_2
