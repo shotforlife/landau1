@@ -20,9 +20,4 @@ Scenario Outline: Check another scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
 
-Examples: 
-| one | two | three |
-|  |  |  |
-
-
 
