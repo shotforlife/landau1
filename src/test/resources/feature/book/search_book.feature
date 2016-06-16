@@ -6,19 +6,18 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_83264116
+
 Scenario: bla1
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
 
-@SC_83270117
 Scenario: bla2
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
 
-@Critical @Test_1 @SC_668366368
+@Critical @Test_1
 Scenario: Search books by publication year
 Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 And another book with the title 'Some other book', written by 'Tim Tomson', published in 23 August 2014
