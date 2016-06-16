@@ -6,13 +6,11 @@ Background:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
-@SC_892588012
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
 
-@SC_892588013
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
