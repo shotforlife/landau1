@@ -1,4 +1,4 @@
-@Story_Bad
+@Satory_Bad
 Feature: Given in only one scenario
   Check Background without given keyword
 
