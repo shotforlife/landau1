@@ -1,4 +1,3 @@
-
 @Satory_Good @ST_744543273
 Feature: Given in all scenarios
 Check Background without given keyword
