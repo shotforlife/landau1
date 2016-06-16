@@ -4,8 +4,10 @@ Check Background without given keyword
 
 Scenario: 
 When in this story background hasn't given keyword
+When in this story background hasn't given keyword
 
 Scenario: 
+When in this story background hasn't given keyword
 When in this story background hasn't given keyword
 
 
