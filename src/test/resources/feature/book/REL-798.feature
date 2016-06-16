@@ -1,9 +1,9 @@
-@ST_89478851
+
 Feature: [UI] Create service to interact with Jira
 The section of loaded scenario must be started like this
 *BDD*
 
-@Critical @SC_93247311
+@Critical 
 Scenario: first scenario for Jira check
 Given we have this story in Jira
 When we call relime
@@ -14,7 +14,7 @@ And this one scenario
 And with Tags
 
 
-@High @SC_93322396
+@High 
 Scenario: second scenario for Jira check
 Given we have this story in Jira with this scenario
 When we call relime
