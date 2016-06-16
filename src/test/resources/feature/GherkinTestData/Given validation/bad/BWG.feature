@@ -1,4 +1,4 @@
-@Story_Bad @New_ta
+@Satory_Bad @New_ta
 Feature: only one scenario
 Check Background
 
