@@ -2,7 +2,7 @@
 Feature: Given in only one scenario
   Check Background without given keyword
 
-Background: bg name
+Background:
 Given asd
 And kjsdfhk
 
