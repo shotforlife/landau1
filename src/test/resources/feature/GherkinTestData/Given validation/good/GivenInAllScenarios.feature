@@ -2,6 +2,10 @@
 Feature: Given in only one scenario
   Check Background without given keyword
 
+Background: bg name
+Given asd
+And kjsdfhk
+
 @Critical @Test_1 @SC_805613197
 Scenario: Check scenario
 Given asd
