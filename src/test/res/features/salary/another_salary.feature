@@ -1,6 +1,11 @@
 @Story_SalaryManagement
 Feature: Salary
 
+Background: bg name
+Given 0
+And 0
+And 0
+
   @Critical @Test_1
   Scenario: Modify an employee's salary
     Given the salary management system is initialized with the following data
