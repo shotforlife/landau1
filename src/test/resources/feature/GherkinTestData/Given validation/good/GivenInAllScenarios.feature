@@ -3,6 +3,7 @@ Feature: Given in only one scenario
   Check Background without given keyword
 
 Background: new name changed
+
 Given asd
 And kjsdfhk
 
