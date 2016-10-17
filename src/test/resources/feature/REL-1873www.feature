@@ -47,3 +47,11 @@ Then I see it synced in Relime
 And the salary management system is initialized with the following data
 And the customer searches for books published between 6 and 7
 And something more
+
+@SC_26
+Scenario: Fifth scenario
+Given I created new scenario
+Then I see it synced in Relime
+And the salary management system is initialized with the following data
+And the customer searches for books published between 6 and 7
+And something more
