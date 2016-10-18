@@ -22,3 +22,10 @@ Some description
 Given I created scenario
 Then I see it in Relime
 #comment
+
+@SC_118
+Scenario: Third scenario with ET
+Given the salary management system is initialized with the following data
+When the boss increases the salary for the <user> with id <id> by 5%
+Then the payroll for the employee with <id> should display a salary of <salary>
+And i want save this string to Git
