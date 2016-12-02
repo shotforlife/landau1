@@ -1,13 +1,13 @@
-@ST_5457 @Satory_Bad @New_ta
+@ST_5486 @Satory_Bad @New_ta
 Feature: only one scenario
 Check Background
 
-@SC_35067 @Critical @Test_1
+@SC_35107 @Critical @Test_1
 Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@SC_35068 @Medium @Test_2
+@SC_35108 @Medium @Test_2
 Scenario: Check another scenario
 When this scenario started without given keyword
 Then gherkin parser must return error
